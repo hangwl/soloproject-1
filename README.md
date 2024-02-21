@@ -22,4 +22,4 @@
 
 ### Entity Relationship Diagram
 
-![alt text](https://git.fdmgroup.com/Hangwei.Low/SoloProject/-/raw/master/images/ERD.png)
+![alt text](https://github.com/hangwl/soloproject-1/blob/master/images/ERD.png)
