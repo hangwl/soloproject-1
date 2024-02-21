@@ -1,0 +1,11 @@
+.cart-item {
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.response-message {
+    color: red;
+    margin-top: 20px;
+}
